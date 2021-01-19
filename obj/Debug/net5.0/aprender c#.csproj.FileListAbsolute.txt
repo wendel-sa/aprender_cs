@@ -1,0 +1,93 @@
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\appsettings.json
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.exe
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.deps.json
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.runtimeconfig.json
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.runtimeconfig.dev.json
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.dll
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\ref\aprender c#.dll
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.pdb
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.Views.dll
+C:\Users\wende\Documents\aprender c#\bin\Debug\net5.0\aprender c#.Views.pdb
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.csprojAssemblyReference.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.AssemblyInfoInputs.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.AssemblyInfo.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.csproj.CoreCompileInputs.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.RazorAssemblyInfo.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.RazorAssemblyInfo.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\staticwebassets\aprender c#.StaticWebAssets.Manifest.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\staticwebassets\aprender c#.StaticWebAssets.xml
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\scopedcss\bundle\aprender c#.styles.css
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.TagHelpers.input.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.TagHelpers.output.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.RazorCoreGenerate.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.RazorTargetAssemblyInfo.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.RazorTargetAssemblyInfo.cs
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.Views.pdb
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.dll
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\ref\aprender c#.dll
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.pdb
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.genruntimeconfig.cache
+C:\Users\wende\Documents\aprender c#\obj\Debug\net5.0\aprender c#.csproj.CopyComplete
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\appsettings.json
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.exe
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.deps.json
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.runtimeconfig.json
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.runtimeconfig.dev.json
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\ref\aprender c#.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.pdb
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.Views.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\aprender c#.Views.pdb
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Humanizer.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\wende\Documents\aprender cs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.csprojAssemblyReference.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.AssemblyInfoInputs.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.AssemblyInfo.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.csproj.CoreCompileInputs.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.RazorAssemblyInfo.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.RazorAssemblyInfo.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\staticwebassets\aprender c#.StaticWebAssets.Manifest.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\staticwebassets\aprender c#.StaticWebAssets.xml
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\scopedcss\bundle\aprender c#.styles.css
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.TagHelpers.input.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.TagHelpers.output.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.RazorCoreGenerate.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.RazorTargetAssemblyInfo.cache
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.RazorTargetAssemblyInfo.cs
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.Views.pdb
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.csproj.CopyComplete
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.dll
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\ref\aprender c#.dll
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.pdb
+C:\Users\wende\Documents\aprender cs\obj\Debug\net5.0\aprender c#.genruntimeconfig.cache

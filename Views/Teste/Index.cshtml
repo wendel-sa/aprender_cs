@@ -1,0 +1,35 @@
+﻿@model List<Heroi>
+@{
+    ViewData["Title"] = "Teste Controller";
+}
+<h1>Herois</h1>
+<a asp-action="Cad" class="btn btn-primary btn-sm my-3">Cadastrar</a>
+@if(TempData["CadSucess"] != null){
+    <div class="alert alert-success" role="alert">
+  Cadastro realizado com sucesso
+</div>
+}
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th class="text-center">id</th>
+            <th class="text-center">Nome</th>
+            <th class="text-center">Descrição</th>
+            <th class="text-center">Id da Arma</th>
+            
+        </tr>
+    </thead>
+    <a ></a>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-center">@item.Id</td>
+                <td class="text-center">@item.Nome</td>
+                <td class="text-center">@item.Descricao</td>
+                <td class="text-center">@item.ArmaId</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
