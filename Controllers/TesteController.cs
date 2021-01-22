@@ -20,7 +20,7 @@ namespace aprender_cs.Controllers
         public IActionResult Index()
         {
             List<Heroi> Heroi = _context.Heroi
-            .Include(cr => cr.ArmaId)
+            .Include(cr => cr.Arma)
             .ToList();
 
             return View(Heroi);

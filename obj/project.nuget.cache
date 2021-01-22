@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTwwtF4mlaTwBTr4cRwhOvFaTjcul/mZYcycfOUxevJ6MUNWiXJOqFdNyCvwiQ0eyNB17Kb0Cf1Aso9fQ2Andg==",
+  "dgSpecHash": "LufrBjKA93FihNkzChpYcKGtuQ7RusCv0DKVymSqIa29MXm6DA8XSqF3fBWGGm4YsqcFD3GE5vob1Y8OUijI8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wende\\Documents\\aprender cs\\aprender cs.csproj",
+  "projectFilePath": "D:\\aprender cs\\aprender cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wende\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\wende\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
